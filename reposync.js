@@ -186,7 +186,7 @@ class RepoSync {
 
     // calculate time opnen
     if (gi.closed_at) {
-      var span = moment.duration(moment(gi.closed_at).diff(moment(gi.created_at)));
+      var span = moment.duration((gi.closed_at != null ? moment(gi.closed_at) : moment()).diff(moment(gi.created_at)));
       issue.minutes_open = span.asMinutes();
     }
 
