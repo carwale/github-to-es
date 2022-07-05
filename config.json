@@ -5,52 +5,148 @@
     "port": 9211
   },
   "repos": [
-{"repo":"carwale/apigateway","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/authentication","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/autobizreactnative","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/autobizweb","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/autocomplete","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/autoexpo","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/bhrigu","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/bwreactapp","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/campaigns","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/canis","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/carwale-ios","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/carwaleapi","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/carwalemobile","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/carwaleweb","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/carwalewebservices","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/cmsarticleviewsconsumer","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/commentsservice","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/cwopr","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/dbloggingservice","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/dcrmreactnative","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/dealers","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/dealerwebsites","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/editorialcontent","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/editorialsites","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/elasticcardata","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/finance","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/ipc","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/leadexchangemanagementservice","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/location","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/microservices","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/mmv","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/notifications","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/offers","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/opr","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/opr-operations","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/oxygen","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/paymentgateway","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/prices","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/sirius","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/sitemap","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/soapclientservice","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/spamfilter","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/synapse","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/templateservice","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/translation","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/userreviews","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/vehicledata","comments": false, "issues": true, "sinceDays":3},
-{"repo":"carwale/vernam","comments": false, "issues": true, "sinceDays":3}]
+{"repo":"carwale/apigateway","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/apigateway","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/authentication","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/authentication","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/autobizreactnative","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/autobizreactnative","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/autobizweb","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/autobizweb","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/autocomplete","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/autocomplete","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/autoexpo","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/autoexpo","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/bhrigu","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/bhrigu","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/bwreactapp","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/bwreactapp","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/campaigns","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/campaigns","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/canis","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/canis","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/carwale-ios","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/carwale-ios","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/carwaleapi","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/carwaleapi","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/carwalemobile","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/carwalemobile","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/carwaleweb","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/carwaleweb","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/carwalewebservices","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/carwalewebservices","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/cmsarticleviewsconsumer","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/cmsarticleviewsconsumer","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/commentsservice","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/commentsservice","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/cwopr","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/cwopr","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/dbloggingservice","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/dbloggingservice","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/dcrmreactnative","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/dcrmreactnative","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/dealers","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/dealers","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/dealerwebsites","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/dealerwebsites","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/editorialcontent","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/editorialcontent","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/editorialsites","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/editorialsites","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/elasticcardata","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/elasticcardata","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/finance","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/finance","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/ipc","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/ipc","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/leadexchangemanagementservice","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/leadexchangemanagementservice","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/location","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/location","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/microservices","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/microservices","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/mmv","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/mmv","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/notifications","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/notifications","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/offers","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/offers","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/opr","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/opr","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/opr-operations","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/opr-operations","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/oxygen","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/oxygen","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/paymentgateway","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/paymentgateway","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/prices","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/prices","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/sirius","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/sirius","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/sitemap","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/sitemap","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/soapclientservice","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/soapclientservice","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/spamfilter","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/spamfilter","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/synapse","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/synapse","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/templateservice","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/templateservice","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/translation","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/translation","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/userreviews","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/userreviews","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/vehicledata","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/vehicledata","comments": false, "issues": true, "sinceDays":3650, "state": "open"},
+
+{"repo":"carwale/vernam","comments": false, "issues": true, "sinceDays":3, "state": "closed"},
+{"repo":"carwale/vernam","comments": false, "issues": true, "sinceDays":3650, "state": "open"}
+]
 }
