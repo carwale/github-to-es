@@ -57,7 +57,7 @@ class RepoSync {
       owner: this.owner,
       repo: this.repo,
       direction: "asc",
-      state: 'all',
+      state: this.options.state,
       page: this.options.page || 0,
       per_page: 100,
     };
